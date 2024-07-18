@@ -11,8 +11,13 @@ Installation on windows
 - ffmpeg
 
 Installation on linux 
-Debian - '''sudo apt-get install python3-tk'''
-Fedora - '''sudo dnf install python3-tkinter'''
+Debian - '''
+sudo apt-get install python3-tk
+'''
+
+Fedora - '''
+sudo dnf install python3-tkinter 
+'''
 
 
 
