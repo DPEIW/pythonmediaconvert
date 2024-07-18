@@ -9,15 +9,12 @@ Prerequisites
 Installation on windows
 - tkinter
 - ffmpeg
+  ```pip install tkinter ffmpeg```
 
 Installation on linux 
-Debian - '''
-sudo apt-get install python3-tk
-'''
+Debian - ```sudo apt-get install python3-tk```
 
-Fedora - '''
-sudo dnf install python3-tkinter 
-'''
+Fedora - ```sudo dnf install python3-tkinter```
 
 
 
